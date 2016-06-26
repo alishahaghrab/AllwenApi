@@ -12,7 +12,7 @@ http.TIMEOUT = 5
 https.TIMEOUT = 5
 utilities = moonscript.loadfile "utilities.moon",implicitly_return_root:true
 utilities!
-export redis = (__init @).client
+export redis = (__init).client
 export plugins = {}
 
 export bot_run = class bot_run
