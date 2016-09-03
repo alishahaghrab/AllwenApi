@@ -1,5 +1,5 @@
 _ =
-  telegram_api_key: "226346511:AAG4txlW5mjLEED0XqYuMwBGX8vf7DdTkmI" --Your telegram bot api key
+  telegram_api_key: "221733608:AAGRoU0BjSvLVOdtNd3KKJ8UKguO4bqOZvU" --Your telegram bot api key
   cli_port: 7731
   admins: {196560568
     --your id
